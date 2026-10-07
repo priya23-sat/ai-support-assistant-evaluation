@@ -1,0 +1,5 @@
+﻿metric,v1,v2,change,interpretation
+Correctness,1.0,1.0,0.0,No change
+Groundedness,0.7333,1.0,0.2667,+26.67 percentage points
+Instruction Following,0.8667,1.0,0.1333,+13.33 percentage points
+Overall Pass Rate,0.6667,1.0,0.3333,+33.33 percentage points
